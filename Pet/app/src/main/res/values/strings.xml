@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="nombre">Gatito1 </string>
+    <string name="Likes">1</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="favoritos_string">Mis Favortitos</string>
+    <string name="contacto">Contacto</string>
+    <string name="about">Acerca de </string>
+
+    <string name="nombreCon">Nombre</string>
+    <string name="emailCon">Correo</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="send">Enviar Comentario</string>
+
+    <string name="programmer">Desarrolladora</string>
+    <string name="Descripción">Nicoll Idaly  Edad : 19   Colombiana</string>
+    <string name="git">https://github.com/Nian-code</string>
+
+    <string name="email">nia7w7@gmail.com</string>
+    <string name="password">nicolmp4.2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
